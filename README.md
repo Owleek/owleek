@@ -35,7 +35,7 @@
 
 ## 🔭 Проекты
 
-- 💼 Индивидуальный: [SpellTimer](https://spelltimer.com/) — приложение для игроков Dota 2 (React + TypeScript, PWA, SEO)
+- 💼 Индивидуальный: [spelltimer.com](https://spelltimer.com/) — приложение для игроков Dota 2 (React + TypeScript, PWA, SEO)
 - 🏢 Коммерческие под NDA — не могу демонстрировать публично.
 - 💻​ Фриланс: вёрстка различных лендингов и конструкторов, пробные React-SPA.
 
@@ -44,5 +44,5 @@
 ## 📫 Контакты
 
 - 📧 Email: artemy.hafizov@gmail.com
-- 🌐 [spelltimer.com](https://spelltimer.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](@owleek)
 - 🤝 Открыт к новым возможностям
